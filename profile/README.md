@@ -2,6 +2,8 @@
 
 A **Kotlin User Group (or “KUG”)** is a community of people who come together to share their programming experience involving Kotlin and its ecosystem.
 
+### Organizers ✨
+
 <table>
   <tbody>
     <tr>
