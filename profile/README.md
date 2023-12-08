@@ -7,7 +7,7 @@ A **Kotlin User Group (or “KUG”)** is a community of people who come togethe
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="25%">
         <a href="https://github.com/l2hyunwoo">
           <img src="https://avatars.githubusercontent.com/u/54518925?v=4?s=100" width="100px;" alt="Hyun-Woo Lee"/>
           <br />
@@ -16,7 +16,7 @@ A **Kotlin User Group (or “KUG”)** is a community of people who come togethe
         <br />
         <div>Mobile Developer</div>
       </td>
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="25%">
         <a href="https://github.com/kisa002">
           <img src="https://avatars.githubusercontent.com/u/4679634?v=4?s=100" width="100px;" alt="PangMoo"/>
           <br />
@@ -25,7 +25,16 @@ A **Kotlin User Group (or “KUG”)** is a community of people who come togethe
         <br />
         <div>Mobile Developer</div>
       </td>
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="25%">
+        <a href="https://github.com/dsa28s">
+          <img src="https://avatars.githubusercontent.com/u/10934461?v=4?s=100" width="100px;" alt="PangMoo"/>
+          <br />
+          <sub><b>이상훈</b></sub>
+        </a>
+        <br />
+        <div>Mobile Developer</div>
+      </td>
+      <td align="center" valign="top" width="25%">
         <a href="https://github.com/Molang00">
           <img src="https://avatars.githubusercontent.com/u/38858643?v=4?s=100" width="100px;" alt="byeongsu"/>
           <br />
