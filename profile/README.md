@@ -34,6 +34,15 @@ A **Kotlin User Group (or “KUG”)** is a community of people who come togethe
         <br />
         <div>Mobile Developer</div>
       </td>
+      <td align="center" valign="top" width="25%">
+        <a href="https://github.com/wotjd243">
+          <img src="https://avatars.githubusercontent.com/u/17171575?v=4?s=100" width="100px;" alt="PangMoo"/>
+          <br />
+          <sub><b>박재성</b></sub>
+        </a>
+        <br />
+        <div>Backend Developer/Instructor</div>
+      </td>
     </tr>
   </tbody>
 </table>
